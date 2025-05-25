@@ -1,0 +1,355 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\figuras\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\figuras\\romboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\figuras\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\figuras\\trapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\figuras\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\figuras\\pentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\figuras\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\figuras\\rombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formtrapezoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formrombo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formromboide.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formromboide.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formrombo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formrombo.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\figuras\\figura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formpentagono.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formpentagono.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|c:\\users\\elkin andres\\desktop\\computacion grafica\\proyectos c#\\geointeractiva\\geointeractiva\\formpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EB336F8-F6A9-456E-89E0-280C9E022F55}|GeoInteractiva\\GeoInteractiva.csproj|solutionrelative:geointeractiva\\formpentagono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormRombo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRombo.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeoInteractiva\\FormRombo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:57:46.593Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.cs",
+              "RelativeToolTip": "GeoInteractiva\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:04:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Program.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Program.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Program.cs",
+              "RelativeToolTip": "GeoInteractiva\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:57:18.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pentagono.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Pentagono.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Figuras\\Pentagono.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Pentagono.cs",
+              "RelativeToolTip": "GeoInteractiva\\Figuras\\Pentagono.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:59:18.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rombo.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Rombo.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Figuras\\Rombo.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Rombo.cs",
+              "RelativeToolTip": "GeoInteractiva\\Figuras\\Rombo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:58:58.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Trapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Trapezoide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Figuras\\Trapezoide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Trapezoide.cs",
+              "RelativeToolTip": "GeoInteractiva\\Figuras\\Trapezoide.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:59:46.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Romboide.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Romboide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Figuras\\Romboide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Romboide.cs",
+              "RelativeToolTip": "GeoInteractiva\\Figuras\\Romboide.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:59:35.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPentagono.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormPentagono.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeoInteractiva\\FormPentagono.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:57:57.297Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeoInteractiva\\MainForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:54:52.813Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormTrapezoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormTrapezoide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormTrapezoide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormTrapezoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeoInteractiva\\FormTrapezoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:28:46.327Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormRomboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRomboide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GeoInteractiva\\FormRomboide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:31:29.025Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormTrapezoide.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormTrapezoide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormTrapezoide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormTrapezoide.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormTrapezoide.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:23:17.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormRombo.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRombo.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormRombo.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:26:35.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormRomboide.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.Designer.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRomboide.Designer.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.Designer.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormRomboide.Designer.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAQwK0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:21:47.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormRombo.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.Designer.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRombo.Designer.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRombo.Designer.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormRombo.Designer.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAQwJgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:26:41.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\MainForm.Designer.cs",
+              "RelativeToolTip": "GeoInteractiva\\MainForm.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:04:18.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormRomboide.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormRomboide.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormRomboide.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormRomboide.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAQwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:21:41.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormPentagono.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.Designer.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormPentagono.Designer.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.Designer.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormPentagono.Designer.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:14:32.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormPentagono.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\FormPentagono.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\FormPentagono.cs",
+              "RelativeToolTip": "GeoInteractiva\\FormPentagono.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAiwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T23:12:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Figura.cs",
+              "DocumentMoniker": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Figura.cs",
+              "RelativeDocumentMoniker": "GeoInteractiva\\Figuras\\Figura.cs",
+              "ToolTip": "C:\\Users\\Elkin Andres\\Desktop\\COMPUTACION GRAFICA\\PROYECTOS C#\\GeoInteractiva\\GeoInteractiva\\Figuras\\Figura.cs",
+              "RelativeToolTip": "GeoInteractiva\\Figuras\\Figura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T22:58:46.05Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
